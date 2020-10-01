@@ -1,0 +1,35 @@
+module.exports = {
+  title: "Mapvizz",
+  logo: "",
+  url: "https://mapvizz.com",
+  cover: "",
+  legalName: "Mapvizz",
+  description: "Maps for Change. Spatial Technologies for a sustainable future",
+  socialLinks: {
+    twitter: "",
+    github: "",
+    linkedin: "",
+    instagram: "",
+    youtube: "",
+    google: "",
+  },
+  googleAnalyticsID: "",
+  themeColor: "#000696",
+  backgroundColor: "#6496f6",
+  social: {
+    facebook: "",
+    twitter: "mapvizz",
+  },
+  address: {
+    city: "Nairobi",
+    region: "",
+    country: "Kenya",
+    zipCode: "",
+  },
+  contact: {
+    email: "otenyo.erick@gmail.com",
+    phone: "",
+  },
+  foundingDate: "2020",
+  googleVerification: "xxx",
+}
