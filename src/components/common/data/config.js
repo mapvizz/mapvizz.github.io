@@ -13,7 +13,7 @@ module.exports = {
     youtube: "",
     google: "",
   },
-  googleAnalyticsID: "",
+  googleAnalyticsID: "UA-179432280-1",
   themeColor: "#000696",
   backgroundColor: "#6496f6",
   social: {
@@ -31,5 +31,5 @@ module.exports = {
     phone: "",
   },
   foundingDate: "2020",
-  googleVerification: "xxx",
+  googleVerification: "Db6_WhSoNX9yFIPpA0mzhtv9CpPOVNU7PqRtn8-lUts",
 }
